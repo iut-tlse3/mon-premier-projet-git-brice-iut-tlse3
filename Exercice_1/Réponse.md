@@ -1,0 +1,1 @@
+Pas de typage en python
